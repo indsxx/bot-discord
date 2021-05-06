@@ -1,0 +1,19 @@
+{
+  "name": "botjs",
+  "version": "1.0.0",
+  "description": "Este e um bot para o discord",
+  "main": "core.js",
+  "scripts": {
+    "test": "dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/indsxx/bot-discord.git"
+  },
+  "author": "indice",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/indsxx/bot-discord/issues"
+  },
+  "homepage": "https://github.com/indsxx/bot-discord#readme"
+}
